@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="name">Name</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_sign_in">Already have an Account? Sign in</string>
+    <string name="log_in">Log In</string>
+    <string name="already_have_and_account_log_in">Already have and Account? Log In</string>
+    <string name="title_activity_bottom_nav">BottomNavActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="log_out">Log Out</string>
+</resources>
