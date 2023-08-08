@@ -1,5 +1,3 @@
 # shopping-app
 
-A shopping app made using java and XML. Firebase is used as the database.
-
-Created by Aritra Pal.
+A shopping app made using XML for frontend, Java for backend and Firebase for database.
